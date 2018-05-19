@@ -81,9 +81,9 @@ h1 {
 }
 
 footer {
-    position: fixed;
-    left: 145;
-    bottom: 147;
+    margin-left: 138px;
+    margin-bottom: 147px;
+    margin-top: 20px;
     width: 856px;
     height: 85px;
     background-color: #ebebeb;
